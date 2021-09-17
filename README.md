@@ -1,2 +1,2 @@
 # gabber-react native-firebase
-Chat room Web application
+A Chat room Web application
